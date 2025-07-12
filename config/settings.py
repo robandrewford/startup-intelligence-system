@@ -168,7 +168,7 @@ AI_DETECTION_CONFIG = {
         ],
         'negative': [
             'ChatGPT integration', 'OpenAI API', 'prompt engineering only',
-            'AI-powered' without specifics, 'machine learning magic',
+            'AI-powered', 'AI-enabled', 'machine learning magic',
             'artificial intelligence revolution', 'AI transformation'
         ]
     },
